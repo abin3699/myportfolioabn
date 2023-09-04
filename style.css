@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@200;300&family=Rowdies:wght@300&display=swap');
+body{
+    margin: 0;
+    height: 100vh;
+    color: white;
+    background-color:black;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rowdies', cursive;
+}
+.nav-item a{
+    color: white;
+}
+.nav-item a:hover{
+    color:#fd2c72;
+}
+.h-5{
+    height: 450px;
+}
+.img1{
+    width: 50%;
+    margin: 20px;
+    filter: drop-shadow(10px 10px 30px white);
+    
+}
+.h-4{
+    height: 350px;
+}
+.card{
+    background-color: black;
+}
+.pro-head{
+    text-align: center;
+    padding: 20px;
+}
+.card-title{
+    text-align: center;
+    color: #fd2c4f;
+}
+/* .f-sec{
+    height: 200px;
+} */
+html{
+    scroll-behavior: smooth;
+}
+.ft{
+    min-height: 200px;
+}
+.icons i{
+    color: #fd2c4f;
+    margin-left: 10px;
+}
